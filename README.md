@@ -72,11 +72,7 @@ Before you start, make sure you have the following:
 2. Create a new analysis and connect to the Athena data source.
 3. Build visualizations and dashboards based on your Athena queries.
 
-## Repository Contents
 
-- `scripts/`: Contains scripts for setting up and running various parts of the pipeline.
-- `templates/`: CloudFormation templates for setting up AWS resources.
-- `docs/`: Documentation and guides for the project.
 
 ## Contributing
 
