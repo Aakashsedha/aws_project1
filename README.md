@@ -49,9 +49,6 @@ Before you start, make sure you have the following:
 ### Step 3: Upload Data to S3
 
 1. Use the AWS CLI or S3 console to upload your data files to the S3 bucket created in Step 1.
-   ```sh
-   aws s3 cp path/to/your/data-file s3://your-bucket-name/
-   ```
 
 ### Step 4: Set Up AWS Glue
 
